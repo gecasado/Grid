@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.grid{
+    color: white;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 550px 275px 550px;
+    grid-template-rows: 350px 350px;
+}
+    .a{
+        background-color: #9efe4c;
+    }
+    .b{
+        background-color: #ff952d;
+    }
+    .c{
+        background-color: #ff5e23;
+    }
+    .d{
+        background-color: #ff0018;
+    }
+    .e{
+        background-color: #0028f5;
+    }
+    .f{
+        background-color: #fffc43;
+    }
